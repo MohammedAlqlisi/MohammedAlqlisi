@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 Full Stack Developer | ERP Systems Architect | .NET Core & Angular Expert
+## 🧑‍💻 Full Stack Developer | ERP Systems Architect | .NET Core & ASP.net Expert
 
 I’m a software developer with over 18 years of hands-on experience, focused on building ERP systems, financial software, and integrated business platforms.
 
