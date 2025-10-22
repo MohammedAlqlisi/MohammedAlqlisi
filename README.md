@@ -15,7 +15,7 @@ I'm the architect and lead developer behind **Shumool ERP** — a comprehensive,
 
 ---
 
-What I Do
+### What I Do
 
 - Architect and build scalable backend systems using **.NET Core 6, 8, 9**
 - Design and implement RESTful **Web APIs** and microservices
