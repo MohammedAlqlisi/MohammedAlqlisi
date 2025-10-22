@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub
+Welcome to My GitHub
 
 [![.NET Core](https://img.shields.io/badge/.NET%20Core-Expert-blueviolet)](https://dotnet.microsoft.com/)
 [![Angular](https://img.shields.io/badge/Angular-Frontend-red)](https://angular.io/)
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 Full Stack Developer | ERP Systems Architect | .NET Core & ASP.net Expert
+Full Stack Developer | ERP Systems Architect | .NET Core & ASP.net Expert
 
 I’m a software developer with over 18 years of hands-on experience, focused on building ERP systems, financial software, and integrated business platforms.
 
@@ -15,7 +15,7 @@ I'm the architect and lead developer behind **Shumool ERP** — a comprehensive,
 
 ---
 
-### 🏗️ What I Do
+What I Do
 
 - Architect and build scalable backend systems using **.NET Core 6, 8, 9**
 - Design and implement RESTful **Web APIs** and microservices
@@ -26,7 +26,7 @@ I'm the architect and lead developer behind **Shumool ERP** — a comprehensive,
 
 ---
 
-### 💡 Tech Stack
+Tech Stack
 
 | Area      | Tools & Technologies |
 |-----------|----------------------|
@@ -38,7 +38,7 @@ I'm the architect and lead developer behind **Shumool ERP** — a comprehensive,
 
 ---
 
-### 🔍 Featured Project: **Shumool ERP**
+Featured Project: **Shumool ERP**
 
 A cloud-based ERP system, fully developed in-house from architecture to deployment.  
 Key modules include:
@@ -54,7 +54,7 @@ Key modules include:
 
 ---
 
-## 📫 Let’s Connect
+Let’s Connect
 
 Interested in ERP systems, backend architecture, or enterprise development?
 
