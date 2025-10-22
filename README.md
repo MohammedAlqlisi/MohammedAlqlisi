@@ -26,7 +26,7 @@ I'm the architect and lead developer behind **Shumool ERP** — a comprehensive,
 
 ---
 
-Tech Stack
+### Tech Stack
 
 | Area      | Tools & Technologies |
 |-----------|----------------------|
@@ -38,7 +38,7 @@ Tech Stack
 
 ---
 
-Featured Project: **Shumool ERP**
+### Featured Project: **Shumool ERP**
 
 A cloud-based ERP system, fully developed in-house from architecture to deployment.  
 Key modules include:
@@ -54,7 +54,7 @@ Key modules include:
 
 ---
 
-Let’s Connect
+### Let’s Connect
 
 Interested in ERP systems, backend architecture, or enterprise development?
 
@@ -62,4 +62,4 @@ Feel free to explore the repos, fork projects, or reach out for collaboration.
 
 ---
 
-## 🚀 Building real-world systems with clean code and clear vision.
+##  Building real-world systems with clean code and clear vision.
